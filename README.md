@@ -25,17 +25,10 @@ I'm Eyob Lakew, a passionate problem solver and tech enthusiast. Welcome to my d
     <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/dart-colored.svg" width="36" height="36" alt="Dart" /></a>
   <a href="https://www.python.org/" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/python-colored.svg" width="36" height="36" alt="Python" /></a>
-  <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/typescript-colored.svg" width="36" height="36" alt="Typescript" /></a>
-  
   <a href="https://developer.mozilla.org/en-US/docs/Glossary/HTML5" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/html5-colored.svg" width="36" height="36" alt="HTML5" /></a>
   <a href="https://reactjs.org/" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/react-colored.svg" width="36" height="36" alt="React" /></a>
-  <a href="https://nextjs.org/docs" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/nextjs-colored.svg" width="36" height="36" alt="NextJs" /></a>
-  <a href="https://vuejs.org/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/vuejs-colored.svg" width="36" height="36" alt="Vue" /></a>
   <a href="https://www.w3.org/TR/CSS/#css" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/css3-colored.svg" width="36" height="36" alt="CSS3" /></a>
   <a href="https://sass-lang.com/" target="_blank" rel="noreferrer">
@@ -48,8 +41,6 @@ I'm Eyob Lakew, a passionate problem solver and tech enthusiast. Welcome to my d
     <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/materialui-colored.svg" width="36" height="36" alt="Material UI" /></a>
   <a href="https://nodejs.org/en/" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/nodejs-colored.svg" width="36" height="36" alt="NodeJS" /></a>
-  <a href="https://docs.nestjs.com/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/nestjs-colored.svg" width="36" height="36" alt="NestJS" /></a>
   <a href="https://flutter.dev/" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/flutter-colored.svg" width="36" height="36" alt="Flutter" /></a>
 </p>
@@ -62,13 +53,13 @@ I'm Eyob Lakew, a passionate problem solver and tech enthusiast. Welcome to my d
 
 ## Projects
 
-### Ahadu Vacancy
-Ahadu Vacancy is the best job site in Ethiopia, with over 1500+ unique visitors every day. Built with HTML5, CSS, Bootstrap, JS, PHP, MySqli.
+### ethio-jobs
+ethio-jobs is the best job site in Ethiopia, with over 35,000+ unique visitors every day. Built with HTML5, CSS, Bootstrap, JS, PHP, MySqli.
 
 
 <p align="left">
-  <a href="https://ahaduvacancy.com/" target="_blank" rel="noreferrer">
-    <img src="https://ahaduvacancy.com/checkitout.png" width="220px"></a>
+  <a href="https://ethio-jobs.net.et/" target="_blank" rel="noreferrer">
+    <b>CHECK IT OUT</b>
 </p>
 
 
@@ -80,7 +71,7 @@ This project is built with HTML5, CSS, Bootstrap, JS, PHP, MySqli.
 
 <p align="left">
   <a href="https://negusmedia.net/" target="_blank" rel="noreferrer">
-    <img src="https://ahaduvacancy.com/checkitout.png" width="220px"></a>
+    <b>CHECK IT OUT</b>
 </p>
 
 
