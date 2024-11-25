@@ -90,3 +90,9 @@ Feel free to connect with me over a call or on social media. Let's chat!
 
 </p>
 
+
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=eyobelakew&show_icons=true&locale=en&layout=compact" alt="eyobelakew" /></p>
+
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=eyobelakew&show_icons=true&locale=en" alt="eyobelakew" /></p>
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=eyobelakew&" alt="eyobelakew" /></p>
