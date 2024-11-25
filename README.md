@@ -77,7 +77,7 @@ This project is built with HTML5, CSS, Bootstrap, JS, PHP, MySqli.
 
 
 ### Portfolio
-[Check my Portfolio](https://ahaduvacancy.com/eyoblakew/)
+[Check my Portfolio](https://eyobl.com/)
 
 ## Get in Touch
 
