@@ -96,3 +96,5 @@ Feel free to connect with me over a call or on social media. Let's chat!
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=eyobelakew&show_icons=true&locale=en" alt="eyobelakew" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=eyobelakew&" alt="eyobelakew" /></p>
+
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=eyobelakew&label=Profile%20views&color=0e75b6&style=flat" alt="elumersen" /> </p>
