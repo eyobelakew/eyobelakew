@@ -1,3 +1,6 @@
+
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=eyobelakew&label=Profile%20views&color=0e75b6&style=flat" alt="eyobelakew" /> </p>
+
 # Hello, World! 👋
 
 I'm Eyob Lakew, a passionate problem solver and tech enthusiast. Welcome to my digital haven, where I thrive on creative problem-solving and a commitment to lifelong learning.
@@ -97,4 +100,3 @@ Feel free to connect with me over a call or on social media. Let's chat!
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=eyobelakew&" alt="eyobelakew" /></p>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=eyobelakew&label=Profile%20views&color=0e75b6&style=flat" alt="elumersen" /> </p>
