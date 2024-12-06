@@ -84,7 +84,7 @@ This project is built with HTML5, CSS, Bootstrap, JS, PHP, MySqli.
 
 ## Get in Touch
 
-- 📧 Email: [eyoblakew01@gmail.com](mailto:eyoblakew01@gmail.com)
+- 📧 Email: [me@eyobl.com](mailto:me@eyobl.com)
 - 📱 Phone: [+251979322838](tel:+251979322838)
 - 🌐 [Telegram](https://t.me/eyob_lakew)
 
