@@ -67,16 +67,14 @@ ethio-jobs is the best job site in Ethiopia, with over 35,000+ unique visitors e
 
 
 
-### Negus Media
-Negus Media provides the latest news and blogs on a wide range of topics! Users can find everything from world news to entertainment, lifestyle, technology, and more.
+### ethio-jobs
+geezjobs is the second best job site in Ethiopia, with over 10,000+ unique visitors every day. Built with HTML5, CSS, Bootstrap, JS, PHP, MySqli.
 
-This project is built with HTML5, CSS, Bootstrap, JS, PHP, MySqli.
 
 <p align="left">
-  <a href="https://negusmedia.net/" target="_blank" rel="noreferrer">
+  <a href="https://geezjobs.com.et/" target="_blank" rel="noreferrer">
     <b>CHECK IT OUT</b>
 </p>
-
 
 
 ### Portfolio
@@ -85,7 +83,6 @@ This project is built with HTML5, CSS, Bootstrap, JS, PHP, MySqli.
 ## Get in Touch
 
 - 📧 Email: [me@eyobl.com](mailto:me@eyobl.com)
-- 📱 Phone: [+251979322838](tel:+251979322838)
 - 🌐 [Telegram](https://t.me/eyob_lakew)
 
 Feel free to connect with me over a call or on social media. Let's chat!
