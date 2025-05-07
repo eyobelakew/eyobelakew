@@ -67,7 +67,7 @@ ethio-jobs is the best job site in Ethiopia, with over 35,000+ unique visitors e
 
 
 
-### ethio-jobs
+### geez-jobs
 geezjobs is the second best job site in Ethiopia, with over 10,000+ unique visitors every day. Built with HTML5, CSS, Bootstrap, JS, PHP, MySqli.
 
 
@@ -94,6 +94,4 @@ Feel free to connect with me over a call or on social media. Let's chat!
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=eyobelakew&show_icons=true&locale=en&layout=compact" alt="eyobelakew" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=eyobelakew&show_icons=true&locale=en" alt="eyobelakew" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=eyobelakew&" alt="eyobelakew" /></p>
 
