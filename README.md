@@ -73,7 +73,7 @@ I'm Eyob Lakew Getaneh, a passionate Full-Stack Developer and Software Engineeri
 - Developed scalable architecture with PHP, MySQL, and Bootstrap
 - Managed SEO strategy resulting in top search rankings
 
-### **Software Engineer** @ Asquala (2024-Present)
+### **Software Engineer** @ Asquala (2024 - 2025)
 - Developed AI-powered Student Management System with real-time parent updates
 - Implemented machine learning for performance insights
 - Led cross-functional team using agile methodologies
