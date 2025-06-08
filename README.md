@@ -73,11 +73,6 @@ I'm Eyob Lakew Getaneh, a passionate Full-Stack Developer and Software Engineeri
 - Developed scalable architecture with PHP, MySQL, and Bootstrap
 - Managed SEO strategy resulting in top search rankings
 
-### **Software Engineer** @ Asquala (2024 - 2025)
-- Developed AI-powered Student Management System with real-time parent updates
-- Implemented machine learning for performance insights
-- Led cross-functional team using agile methodologies
-
 ### **Software Engineer** @ Poshak Consultancy (2023)
 - Designed UI/UX for ERP system web application
 - Developed back-end architecture with Node.js (LoopbackJS) and MongoDB
@@ -86,7 +81,7 @@ I'm Eyob Lakew Getaneh, a passionate Full-Stack Developer and Software Engineeri
 ## 🌟 Featured Projects
 
 ### EthioJobs
-**Ethiopia's #1 Job Platform**  
+**Ethiopia's Best Job Platform**  
 800k+ monthly page views | 35k+ daily visitors  
 ✅ AI-powered Cover Letter Writer  
 ✅ CV uploads & Telegram bot integration  
@@ -104,11 +99,6 @@ I'm Eyob Lakew Getaneh, a passionate Full-Stack Developer and Software Engineeri
 🌍 Tailored for Ethiopia  
 [![Visit Ethio Tools](https://img.shields.io/badge/Visit-Ethiotools-blue?style=for-the-badge)](https://ethiotools.com.et/)
 
-### Student Management System
-**AI-powered education platform**  
-📊 Real-time student performance tracking  
-🤖 Machine learning insights  
-👨‍💻 Built with modern web technologies  
 
 ## 📚 Education
 **BSc in Software Engineering**  
