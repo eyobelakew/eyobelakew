@@ -106,7 +106,7 @@ Bahir Dar University (2021-Present)
 
 ## 📫 Let's Connect
 - 💼 [LinkedIn](https://www.linkedin.com/in/eyob-lakew)
-- 📧 Email: [eyobigetaneh@gmail.com](mailto:eyoblgetaneh@gmail.com)
+- 📧 Email: [eyoblgetaneh@gmail.com](mailto:eyoblgetaneh@gmail.com)
 - 🌐 Portfolio: [eyobl.com](https://eyobl.com)
 - 📱 Telegram: [@eyoblgetaneh](https://t.me/eyoblgetaneh)
 
