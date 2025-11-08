@@ -104,11 +104,6 @@ I'm Eyob Lakew Getaneh, a passionate Full-Stack Developer and Software Engineeri
 **BSc in Software Engineering**  
 Bahir Dar University (2021-Present)
 
-## 📫 Let's Connect
-- 💼 [LinkedIn](https://www.linkedin.com/in/eyob-lakew)
-- 📧 Email: [eyoblgetaneh@gmail.com](mailto:eyoblgetaneh@gmail.com)
-- 🌐 Portfolio: [eyobl.com](https://eyobl.com)
-- 📱 Telegram: [@eyoblgetaneh](https://t.me/eyoblgetaneh)
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=eyobelakew&show_icons=true&locale=en&layout=compact" alt="eyobelakew" /></p>
 
