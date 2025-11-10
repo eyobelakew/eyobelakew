@@ -52,58 +52,6 @@ I'm Eyob Lakew Getaneh, a passionate Full-Stack Developer and Software Engineeri
   </a>
 </p>
 
-### UI/UX & Tools
-<p align="left">
-  <a href="https://www.figma.com/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/figma-colored.svg" width="36" height="36" alt="Figma" title="Figma"/>
-  </a>
-  <a href="https://www.adobe.com/products/xd.html" target="_blank" rel="noreferrer">
-    <img src="https://cdn.worldvectorlogo.com/logos/adobe-xd.svg" width="36" height="36" alt="XD" title="Adobe XD"/>
-  </a>
-  <a href="https://git-scm.com/" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" width="36" height="36" alt="Git" title="Git"/>
-  </a>
-</p>
-
-## 💼 Professional Experience
-
-### **Full-Stack Developer & Co-Founder** @ EthioJobs (2022-Present)
-- Built Ethiopia's leading job platform handling 800k+ page views/month
-- Implemented AI-powered Cover Letter Writer feature
-- Developed scalable architecture with PHP, MySQL, and Bootstrap
-- Managed SEO strategy resulting in top search rankings
-
-### **Software Engineer** @ Poshak Consultancy (2023)
-- Designed UI/UX for ERP system web application
-- Developed back-end architecture with Node.js (LoopbackJS) and MongoDB
-- Implemented front-end with Vue.js, HTML5, and CSS3
-
-## 🌟 Featured Projects
-
-### EthioJobs
-**Ethiopia's Best Job Platform**  
-800k+ monthly page views | 35k+ daily visitors  
-✅ AI-powered Cover Letter Writer  
-✅ CV uploads & Telegram bot integration  
-✅ High-performance PHP/MySQL architecture  
-
-[![Visit EthioJobs](https://img.shields.io/badge/Visit-EthioJobs-blue?style=for-the-badge)](https://ethio-jobs.net.et/)
-
-### Ethiotools  
-**Key Achievements:**  
-
-✅ Built 15+ tools boosting cultural access for 10K+ users/month  
-✅ First real-time Amharic OCR & text-to-speech, breaking language barriers  
-✅ Created Amharic/Geez number converter for financial & cultural docs  
-⚡ Fast & SEO-friendly  
-🌍 Tailored for Ethiopia  
-[![Visit Ethio Tools](https://img.shields.io/badge/Visit-Ethiotools-blue?style=for-the-badge)](https://ethiotools.com.et/)
-
-
-## 📚 Education
-**BSc in Software Engineering**  
-Bahir Dar University (2021-Present)
-
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=eyobelakew&show_icons=true&locale=en&layout=compact" alt="eyobelakew" /></p>
 
