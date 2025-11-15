@@ -1,22 +1,22 @@
-<p align="left">
+<p align="center">
   <img src="https://komarev.com/ghpvc/?username=eyobelakew&label=Profile%20views&color=0e75b6&style=flat" alt="eyobelakew" />
 </p>
-<div align="center"> 
-  <p>Visitor count</p>
-  <img src="https://profile-counter.glitch.me/eyobelakew/count.svg" alt="Visitor's Count" />
-</div>
 
+<h1 align="center">
+  <img
+    src="https://readme-typing-svg.herokuapp.com?font=Inter&size=32&center=true&vCenter=true&width=650&height=60&color=1F5297&pause=1500&lines=Hey%2C+I'm+Eyob+Lakew;Full-Stack+Engineer;AI+Agent+Specialist"
+    alt="Typing SVG"
+  />
+</h1>
 
-# Hey, I'm Eyob Lakew
+<p align="center">
+  I build production-ready <b>web apps</b>, <b>AI agents</b>, and <b>automation workflows</b><br />
+  using tools like <b>FastAPI, React, Node.js, LangChain, n8n, Docker, PostgreSQL, and Redis</b>.
+</p>
 
-**Full-Stack Engineer & AI Agent Specialist**
-
-I build production-ready **web apps, AI agents, and automation workflows** using tools like  
-**FastAPI, React, Node.js, LangChain, n8n, Docker, PostgreSQL, and Redis**.
-
-Currently:
-- Working on AI-powered agents & tools at **Amplitude Ventures**  
-- Studying **Software Engineering** at **Bahir Dar University**  
+<p align="center">
+  <i>Currently building AI-powered agents at <b>Amplitude Ventures</b> and studying Software Engineering at <b>Bahir Dar University</b>.</i>
+</p>
 
 ---
 
@@ -53,27 +53,32 @@ Also experienced with: **Dart**, **WordPress**, **Vite**, **web scraping**, **Te
 ### Languages & Tools (at a glance)
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=py,ts,js,php,dart,html,css,react,vue,flutter,fastapi,nodejs,laravel,tailwind,postgres,mysql,mongodb,supabase,redis,docker,aws,wordpress,vite,arduino&perline=8" alt="Tech stack icons" />
+  <img
+    src="https://skillicons.dev/icons?i=py,ts,js,php,dart,html,css,react,vue,flutter,fastapi,nodejs,laravel,tailwind,postgres,mysql,mongodb,supabase,redis,docker,aws,wordpress,vite,arduino&perline=8"
+    alt="Tech stack icons"
+  />
 </p>
 
 ---
 
 ## ⚡ Stats
 
+<br />
+
 <div align="center">
   <img
     width="390"
-    src="https://github-readme-stats.vercel.app/api?username=eyobelakew&show_icons=true&locale=en"
+    src="https://github-readme-stats.vercel.app/api?username=eyobelakew&show_icons=true&rank_icon=github&count_private=true&theme=transparent&locale=en"
     alt="Eyob's GitHub stats"
   />
   <img
     width="390"
-    src="https://github-readme-streak-stats.herokuapp.com/?user=eyobelakew&theme=default&border_radius=10"
+    src="https://github-readme-streak-stats.herokuapp.com/?user=eyobelakew&theme=transparent&date_format=j%20M%5B%20Y%5D&border_radius=10"
     alt="Eyob's GitHub streak stats"
   />
   <img
     width="325"
-    src="https://github-readme-stats.vercel.app/api/top-langs?username=eyobelakew&show_icons=true&layout=compact&langs_count=8"
+    src="https://github-readme-stats.vercel.app/api/top-langs?username=eyobelakew&show_icons=true&layout=compact&langs_count=8&theme=transparent"
     alt="Most used languages"
   />
 </div>
@@ -82,8 +87,20 @@ Also experienced with: **Dart**, **WordPress**, **Vite**, **web scraping**, **Te
 
 ## 📫 Let’s Connect
 
-- Portfolio: **[eyobl.com](https://eyobl.com)**  
-- LinkedIn: **[linkedin.com/in/eyob-lakew](https://www.linkedin.com/in/eyob-lakew/)**  
-- GitHub: **[@eyobelakew](https://github.com/eyobelakew)**  
-- Email: **eyoblgetaneh@gmail.com**  
-- Telegram: **[@eyoblgetaneh](https://t.me/eyoblgetaneh)**  
+<p align="center">
+  <a href="https://eyobl.com" target="_blank">
+    <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=aboutdotme&logoColor=white" alt="Portfolio" />
+  </a>
+  <a href="https://www.linkedin.com/in/eyob-lakew/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+  <a href="https://github.com/eyobelakew" target="_blank">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+  </a>
+  <a href="mailto:eyoblgetaneh@gmail.com" target="_blank">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+  </a>
+  <a href="https://t.me/eyoblgetaneh" target="_blank">
+    <img src="https://img.shields.io/badge/Telegram-26A5E4?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram" />
+  </a>
+</p>
