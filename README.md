@@ -1,6 +1,11 @@
 <p align="left">
   <img src="https://komarev.com/ghpvc/?username=eyobelakew&label=Profile%20views&color=0e75b6&style=flat" alt="eyobelakew" />
 </p>
+<div align="center"> 
+  <p>Visitor count</p>
+  <img src="https://profile-counter.glitch.me/eyobelakew/count.svg" alt="Visitor's Count" />
+</div>
+
 
 # Hey, I'm Eyob Lakew
 
