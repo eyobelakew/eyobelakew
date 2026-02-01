@@ -2,7 +2,7 @@ name: README cards
 
 on:
   schedule:
-    - cron: "0 0 * * *"
+    - cron: "0 0 * * *" # daily
   workflow_dispatch:
 
 permissions:
@@ -12,28 +12,39 @@ jobs:
   metrics:
     runs-on: ubuntu-latest
     steps:
-      - name: Base stats card
+      # 1) Stats card (like github-readme-stats)
+      - name: Stats card
         uses: lowlighter/metrics@latest
         with:
           filename: assets/card-stats.svg
           token: ${{ secrets.METRICS_TOKEN }}
           user: eyobelakew
           template: classic
-          base: header, repositories
-          config_display: compact
           config_timezone: Africa/Addis_Ababa
+          config_display: compact
+          config_padding: 0, 8
+          config_animations: no
+          config_twemoji: yes
+          base: header, repositories, metadata
+          base_indepth: yes
 
-      - name: Activity streak card
+      # 2) "Streak-like" card (activity calendar / consistency)
+      - name: Streak card
         uses: lowlighter/metrics@latest
         with:
           filename: assets/card-streak.svg
           token: ${{ secrets.METRICS_TOKEN }}
           user: eyobelakew
           template: classic
+          config_timezone: Africa/Addis_Ababa
+          config_display: compact
+          config_padding: 0, 8
+          config_animations: no
           base: ""
           plugin_isocalendar: yes
           plugin_isocalendar_duration: half-year
 
+      # 3) Top languages card
       - name: Top languages card
         uses: lowlighter/metrics@latest
         with:
@@ -41,7 +52,13 @@ jobs:
           token: ${{ secrets.METRICS_TOKEN }}
           user: eyobelakew
           template: classic
+          config_timezone: Africa/Addis_Ababa
+          config_display: compact
+          config_padding: 0, 8
+          config_animations: no
           base: ""
           plugin_languages: yes
           plugin_languages_limit: 8
           plugin_languages_details: percentage
+          plugin_languages_indepth: yes
+          plugin_languages_analysis_timeout: 15
