@@ -2,7 +2,7 @@ name: README cards
 
 on:
   schedule:
-    - cron: "0 0 * * *" # daily
+    - cron: "0 0 * * *"
   workflow_dispatch:
 
 permissions:
@@ -12,29 +12,29 @@ jobs:
   metrics:
     runs-on: ubuntu-latest
     steps:
-      # 1) Stats card (like github-readme-stats)
       - name: Stats card
         uses: lowlighter/metrics@latest
         with:
-          filename: assets/card-stats.svg
-          token: ${{ secrets.METRICS_TOKEN }}
           user: eyobelakew
+          token: ${{ secrets.METRICS_TOKEN }}
+          committer_token: ${{ secrets.METRICS_TOKEN }}
+
+          filename: assets/card-stats.svg
           template: classic
           config_timezone: Africa/Addis_Ababa
           config_display: compact
           config_padding: 0, 8
           config_animations: no
-          config_twemoji: yes
           base: header, repositories, metadata
-          base_indepth: yes
 
-      # 2) "Streak-like" card (activity calendar / consistency)
       - name: Streak card
         uses: lowlighter/metrics@latest
         with:
-          filename: assets/card-streak.svg
-          token: ${{ secrets.METRICS_TOKEN }}
           user: eyobelakew
+          token: ${{ secrets.METRICS_TOKEN }}
+          committer_token: ${{ secrets.METRICS_TOKEN }}
+
+          filename: assets/card-streak.svg
           template: classic
           config_timezone: Africa/Addis_Ababa
           config_display: compact
@@ -44,13 +44,14 @@ jobs:
           plugin_isocalendar: yes
           plugin_isocalendar_duration: half-year
 
-      # 3) Top languages card
       - name: Top languages card
         uses: lowlighter/metrics@latest
         with:
-          filename: assets/card-langs.svg
-          token: ${{ secrets.METRICS_TOKEN }}
           user: eyobelakew
+          token: ${{ secrets.METRICS_TOKEN }}
+          committer_token: ${{ secrets.METRICS_TOKEN }}
+
+          filename: assets/card-langs.svg
           template: classic
           config_timezone: Africa/Addis_Ababa
           config_display: compact
