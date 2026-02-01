@@ -66,9 +66,9 @@ Also experienced with: **Dart**, **WordPress**, **Vite**, **web scraping**, **Te
 <br />
 
 <div align="center">
-  <img width="390" src="./assets/card-stats.svg" />
-  <img width="390" src="./assets/card-streak.svg" />
-  <img width="325" src="./assets/card-langs.svg" />
+  <img width="390" src="./assets/card-stats.svg" alt="Eyob's GitHub stats" />
+  <img width="390" src="./assets/card-streak.svg" alt="Eyob's GitHub streak" />
+  <img width="325" src="./assets/card-langs.svg" alt="Most used languages" />
 </div>
 
 ## 📫 Let’s Connect
