@@ -66,29 +66,13 @@ Also experienced with: **Dart**, **WordPress**, **Vite**, **web scraping**, **Te
 <br />
 
 <div align="center">
-
-  <img
-    width="390"
-    src="https://metrics.lecoq.io/eyobelakew?template=classic&base=header&config.display=compact"
-    alt="Eyob's GitHub stats"
-  />
-
-  <img
-    width="390"
-    src="https://streak-stats.demolab.com?user=eyobelakew&theme=transparent&border_radius=10"
-    alt="Eyob's GitHub streak"
-  />
-
-  <img
-    width="325"
-    src="https://metrics.lecoq.io/eyobelakew?template=classic&languages=1&languages.limit=8&languages.details=percentage"
-    alt="Most used languages"
-  />
-
+  <img width="390" src="./assets/card-stats.svg" />
+  <img width="390" src="./assets/card-streak.svg" />
+  <img width="325" src="./assets/card-langs.svg" />
 </div>
----
 
 ## 📫 Let’s Connect
+<br />
 
 <p align="center">
   <a href="https://eyobl.com" target="_blank">
