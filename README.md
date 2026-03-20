@@ -40,7 +40,7 @@
 
 ### Core Stack (day-to-day)
 
-**Backend:** Python · FastAPI · Flask · Django · Laravel · Celery · Redis · Node.js · NestJS  
+**Backend:** Python · FastAPI · Flask · Django · Laravel · Express.js · Celery · Redis · Node.js · NestJS · Prisma  
 **Frontend:** React · TypeScript · Tailwind CSS · Vite · shadcn/ui · HTML5/CSS3  
 **AI & Automation:** LangChain · LangGraph · OpenAI GPT-4 · Pinecone · Prompt Engineering  
 **Data & Infra:** PostgreSQL · MySQL · Supabase · AWS (EC2, S3, RDS) · Supabase Edge Functions  
@@ -50,7 +50,7 @@
 
 <p align="center">
   <img
-    src="https://skillicons.dev/icons?i=py,ts,js,php,html,css,react,fastapi,nodejs,laravel,tailwind,postgres,mysql,mongodb,supabase,redis,aws,vite,docker&perline=8"
+    src="https://skillicons.dev/icons?i=py,ts,js,php,html,css,react,express,fastapi,nodejs,laravel,tailwind,postgres,mysql,mongodb,supabase,redis,aws,vite,docker,prisma&perline=8"
     alt="Tech stack icons"
   />
 </p>
