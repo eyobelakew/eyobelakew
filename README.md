@@ -4,38 +4,35 @@
 
 <h1 align="center">
   <img
-    src="https://readme-typing-svg.herokuapp.com?font=Inter&size=32&center=true&vCenter=true&width=650&height=60&color=1F5297&pause=1500&lines=Hey%2C+I'm+Eyob+Lakew;Full-Stack+Engineer;AI+Agent+Specialist"
+    src="https://readme-typing-svg.herokuapp.com?font=Inter&size=32&center=true&vCenter=true&width=650&height=60&color=1F5297&pause=1500&lines=Hey%2C+I'm+Eyob+Lakew;Full-Stack+Engineer;AI+Agent+Builder"
     alt="Typing SVG"
   />
 </h1>
 
 <p align="center">
-  I build production-ready <b>web apps</b>, <b>AI agents</b>, and <b>automation workflows</b><br />
-  using tools like <b>FastAPI, React, Node.js, LangChain, n8n, Docker, PostgreSQL, and Redis</b>.
+  I build production-ready <b>AI-powered products</b>, <b>full-stack platforms</b>, and <b>automation workflows</b><br />
+  using <b>FastAPI, React, LangChain, Supabase, Celery, Redis, and PostgreSQL</b>.
 </p>
 
 <p align="center">
-  <i>Currently building AI-powered agents at <b>Amplitude Ventures</b> and studying Software Engineering at <b>Bahir Dar University</b>.</i>
+  <i>Most recently: Full Stack Engineer – AI Agents at <b>Amplitude Ventures</b> (Stavanger, Norway)</i>
 </p>
 
 ---
 
 ## 🚀 What I Do
 
-- **Full-Stack Web Apps**  
-  FastAPI / Laravel / Node.js backends with React, Vue, and Flutter frontends  
-
 - **AI Agents & LLM Integrations**  
-  LangChain, LangGraph, OpenAI APIs, retrieval, tools, and multi-step workflows  
+  LangChain, LangGraph, OpenAI APIs, Pinecone, multi-step workflows, and autonomous decision-making systems  
 
-- **Automation & Integrations**  
-  n8n, webhooks, API orchestration, background jobs with Celery + Redis  
+- **Full-Stack Web Apps**  
+  FastAPI / Laravel / Node.js backends with React + TypeScript frontends — shipped across legal tech, CRM, and music platforms  
+
+- **Backend & Infrastructure**  
+  Celery + Redis distributed task processing, async Python, CI/CD pipelines with security QA gates  
 
 - **High-Traffic Platforms**  
-  Designed, launched, and maintained platforms handling hundreds of thousands of visits per month  
-
-- **Technical SEO & Performance**  
-  Optimizing pages, queries, and architecture for speed and discoverability  
+  Designed and launched platforms handling 800k+ monthly page views with zero paid acquisition  
 
 ---
 
@@ -43,18 +40,17 @@
 
 ### Core Stack (day-to-day)
 
-**Backend:** Python · FastAPI · Node.js · PHP/Laravel  
-**Frontend:** React · Vue · Tailwind CSS · Flutter · HTML5/CSS3  
-**AI & Automation:** LangChain · LangGraph · OpenAI · n8n · Celery · Redis  
-**Data & Infra:** PostgreSQL · MySQL · MongoDB · Supabase · Docker · AWS  
-
-Also experienced with: **Dart**, **WordPress**, **Vite**, **web scraping**, **Telegram bot development**, **Arduino**, and **technical SEO**.
+**Backend:** Python · FastAPI · Flask · Django · Laravel · Celery · Redis · Node.js · NestJS  
+**Frontend:** React · TypeScript · Tailwind CSS · Vite · shadcn/ui · HTML5/CSS3  
+**AI & Automation:** LangChain · LangGraph · OpenAI GPT-4 · Pinecone · Prompt Engineering  
+**Data & Infra:** PostgreSQL · MySQL · Supabase · AWS (EC2, S3, RDS) · Supabase Edge Functions  
+**DevOps:** Git/GitHub · CI/CD (GitHub Actions) · OAuth 2.0  
 
 ### Languages & Tools (at a glance)
 
 <p align="center">
   <img
-    src="https://skillicons.dev/icons?i=py,ts,js,php,dart,html,css,react,vue,flutter,fastapi,nodejs,laravel,tailwind,postgres,mysql,mongodb,supabase,redis,docker,aws,wordpress,vite,arduino&perline=8"
+    src="https://skillicons.dev/icons?i=py,ts,js,php,html,css,react,fastapi,nodejs,laravel,tailwind,postgres,mysql,mongodb,supabase,redis,aws,vite,docker&perline=8"
     alt="Tech stack icons"
   />
 </p>
@@ -71,7 +67,7 @@ Also experienced with: **Dart**, **WordPress**, **Vite**, **web scraping**, **Te
   <img width="325" src="./assets/card-langs.svg" alt="Most used languages" />
 </div>
 
-## 📫 Let’s Connect
+## 📫 Let's Connect
 <br />
 
 <p align="center">
